@@ -17,3 +17,7 @@ body {
     width: 40%;
     transform: rotate(25deg);
 }
+
+.cont-properties {
+    width: 70%;
+}
